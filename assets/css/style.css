@@ -21,7 +21,7 @@ section{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url(../assets/images/banner.png), linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)); 
+    background-image: url(https://github.com/oLazaroCS/trilha-css-desafio-01/blob/main/assets/images/banner.png?raw=true), linear-gradient(rgba(0, 0, 0, .6), rgba(49, 168, 221, .2), rgba(0, 0, 0, .6)); 
     background-size: cover;
     background-repeat: no-repeat;
     margin: 56px 0 75px 0;
@@ -118,7 +118,7 @@ h2{
 #transform-world{
     display: flex;
     flex-direction: row;
-    background-image: url(../assets/images/woman-code.png);
+    background-image: url(https://github.com/oLazaroCS/trilha-css-desafio-01/blob/main/assets/images/woman-code.png?raw=true);
     background-size: cover;
     background-attachment: fixed;
     padding: 100px;
